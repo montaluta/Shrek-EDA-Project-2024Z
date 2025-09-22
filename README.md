@@ -2,7 +2,7 @@
 
 ## 📊 Project Description
 
-This project was conducted as part of the **Exploratory Data Analysis (EDA)** course for the **Bachelor's program in Mathematics and Data Analysis** at **Warsaw University of Technology, Faculty of Mathematics and Information Science**.  
+This project was conducted as part of the **Exploratory Data Analysis (EDA)** course for the **Bachelor's program in Mathematics and Data Analysis** at **Warsaw University of Technology, Faculty of Mathematics and Information Science**, during the **Winter Semester 2024**.  
 
 The analysis focuses on *Shrek 2* and *3* dialogues and includes several aspects:  
 
@@ -15,9 +15,9 @@ All analyses were performed in **R**, and the results were later used to create 
 
 ## 👥 Authors
 
-- Alicja Żebiałowicz
-- Bruno Podbielski 
-- Łukasz Wyszomierski 
+- [Alicja Żebiałowicz](https://github.com/montaluta)
+- [Bruno Podbielski](https://github.com/SudokuMan)
+- [Łukasz Wyszomierski](https://github.com/LukaszWyszomierski)
 
 ## 🎨 Poster
 
